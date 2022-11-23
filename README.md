@@ -12,12 +12,6 @@ yarn
 yarn dev
 ```
 
-## To run tests
-
-```bash
-yarn test
-```
-
 ## To build
 
 ```bash
@@ -30,7 +24,7 @@ or
 yarn build:prod
 ```
 
-## The commit history story
+<!-- ## The commit history story
 
 - [Setting up the React app](https://github.com/ashleemboyer/webpack-typescript-jest-less/commit/af60ed8678e349ba6596890f795419011b2bebf8)
 - [Upgrading webpack and loaders](https://github.com/ashleemboyer/webpack-typescript-jest-less/commit/4ee89641b96c6999916b4fade7eddeff78acee1f)
@@ -40,4 +34,4 @@ yarn build:prod
 - [Adding Jest and Enzyme](https://github.com/ashleemboyer/webpack-typescript-jest-less/commit/7cca2ab4b584dd1c760b56d4f73e502fd761d901)
 - [Adding webpack rule for .module.less files](https://github.com/ashleemboyer/webpack-typescript-jest-less/commit/e20cec48cc9f525bcc534decb80aafec03d96f87)
 - [Setting up a build command](https://github.com/ashleemboyer/webpack-typescript-jest-less/commit/57dc4d1ba4f380f4bcecce42b8d0dc25e0225237)
-- [Fixing the bundle.js file referenced in the index.html](https://github.com/ashleemboyer/webpack-typescript-jest-less/commit/c0a36271e71c15fdc1331d9e9a3541f94a972db9)
+- [Fixing the bundle.js file referenced in the index.html](https://github.com/ashleemboyer/webpack-typescript-jest-less/commit/c0a36271e71c15fdc1331d9e9a3541f94a972db9) -->
