@@ -6,11 +6,11 @@ import { db } from "../../firebase";
 import { dateOverdue } from "../../helpers/date";
 import { Todo } from "../../models/Todo";
 
+import { EditTodoModal } from "../EditTodoModal";
 import DeleteIcon from "../../assets/icons/delete.svg";
 import EditIcon from "../../assets/icons/edit.svg";
 
 import styles from "./TodoItem.module.less";
-import { EditTodoModal } from "../EditTodoModal";
 
 interface Props {
   todo: Todo;
