@@ -1,12 +1,6 @@
-import * as React from 'react';
-import Button from './components/Button/Button';
-import './App.less';
+import * as React from "react";
+import { MainPage } from "./pages/MainPage/MainPage";
 
-const App: React.FC = () => (
-  <div className="App">
-    <h1> Hello, World!</h1>
-    <Button onClick={() => console.log('Clicked!')}>Click me!</Button>
-  </div>
-);
+const App: React.FC = () => <MainPage />;
 
 export default App;
